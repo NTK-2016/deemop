@@ -1,0 +1,405 @@
+                                 UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                              Washington, DC 20549
+
+                                   FORM N-PX
+
+         ANNUAL REPORT OF PROXY VOTING RECORD OF REGISTERED MANAGEMENT
+                               INVESTMENT COMPANY
+
+
+Investment Company Act file number: 811-576
+
+Northeast Investors Trust
+(exact name of registrant as specified in charter)
+
+125 High Street, Room 1802
+Boston, MA 02110
+(adress of principal executive offices)
+
+David Randall
+125 High St, Room 1802
+Boston, MA 02110
+(name and address of agent for service)
+
+Registrant's telephone number, including area code:     800-225-6704
+
+Date of fiscal year end:  September 30
+
+Date of reporting period ending:  June 30, 2017
+
+Form N-PX is to be used by a registered management investment company, other
+than a small business investment company registered on Form N-5 (239.24 and
+274.5 of this chapter), to file reports with the Commission, not later than
+August 31 of each year, containing the registrant's proxy voting records for
+the most recent twelve-month period June 30, pursuant to section 30 of the
+Investment Company Act of 1940 and rule 30b1-4 thereunder (17 CFR 270.30b1-4).
+The Commission may use the information provided on Form N-PX in its
+regulatory, disclosure review, inspection, and policymaking roles.
+
+A registrant is required to disclose the information specified by Form N-PX,
+and the Commission will make this information public.  A registrant is not
+required to respond to the collection of information contained in Form N-PX
+unless the Form displays a currently valid Office of Management and Budget
+("OMB") control number.  Please direct comments concerning the accuracy of the
+information collection burden estimate and any suggestions for reducing the
+burden to the Secretary, Securities and Exchange Commission, 450 Fifth Street,
+NW, Washington, DC 20549-0609.  The OMB has reviewed this collection of
+information under the clearance requirements of 44 U.S.C. 3507.
+
+<TABLE>
+<CAPTION>
+                                                                                    FOR/AGAINST
+ITEM  PROPOSAL                                                      TYPE     VOTE   MANAGEMENT
+----  --------                                                   ---------- ------- -----------
+<S>   <C>                                                        <C>        <C>     <C>
+
+
+			   INVESTMENT COMPANY REPORT
+
+
+REICHHOLD CAYMAN GP
+Security        759219GP1          Meeting Type       Extraordinary General 
+Ticker Symbol   		   Meeting Date       17-Jul-2016
+ISIN            		   Agenda             Management
+
+
+                                                                                    FOR/AGAINST
+ITEM  PROPOSAL                                                      TYPE     VOTE   MANAGEMENT
+----  --------                                                   ---------- ------- -----------
+<S>   <C>                                                        <C>        <C>     <C>
+1.    PROPOSAL TO HAVE THE MINIMUM NUMBER OF DIRECTORS           Management
+      OF THE COMPANY INCREASED TO SIX (6) AND MIKE                          For	      For 	
+      SHANNON AND RUSS TAYLOR BE ELECTED TO THE BOARD
+      OF DIRECTORS OF THE COMPANY.
+		
+
+
+                           INVESTMENT COMPANY REPORT
+
+
+ROMA RESTAURANT HOLDING, INC.
+Security        77599R980          Meeting Type       Special
+Ticker Symbol   ROMA               Meeting Date       14-Jul-2016
+ISIN            		   Agenda             Management
+
+
+                                                                                    FOR/AGAINST
+ITEM  PROPOSAL                                                      TYPE     VOTE   MANAGEMENT
+----  --------                                                   ---------- ------- -----------
+<S>   <C>                                                        <C>        <C>     <C>
+1.    DIRECTOR             			                 Management
+        1   SCOTT WILSON                          			    ABSTAIN   For
+        2   KENNETH RIEMER                          			    ABSTAIN   For
+
+
+ 			   INVESTMENT COMPANY REPORT
+
+
+ROMA RESTAURANT HOLDING, INC.
+Security        77599R980          Meeting Type       Special
+Ticker Symbol   ROMA               Meeting Date       30-Nov-2016
+ISIN            		   Agenda             Management
+
+
+                                                                                    FOR/AGAINST
+ITEM  PROPOSAL                                                      TYPE     VOTE   MANAGEMENT
+----  --------                                                   ---------- ------- -----------
+<S>   <C>                                                        <C>        <C>     <C>
+1.    DIRECTOR             			                 Management
+        1   SCOTT WILSON                          			    ABSTAIN   For
+        2   KENNETH RIEMER                          			    ABSTAIN   For
+
+
+
+
+                           
+                           
+                           INVESTMENT COMPANY REPORT
+
+CITIGROUP INC.
+Security       172967424     Meeting Type  Annual
+Ticker Symbol  C             Meeting Date  25-Apr-2017
+ISIN           US1729674242  Agenda        934541904 - Management
+
+                                                                                        FOR/AGAINST
+ITEM  PROPOSAL                                                      TYPE         VOTE   MANAGEMENT
+----  --------                                                      ----------- ------- -----------
+<C>   <S>                                                           <C>         <C>     <C>
+1A.   ELECTION OF DIRECTOR: MICHAEL L. CORBAT                       Management  For       For
+1B.   ELECTION OF DIRECTOR: ELLEN M. COSTELLO                       Management  For       For
+1C.   ELECTION OF DIRECTOR: DUNCAN P. HENNES                        Management  For       For
+1D.   ELECTION OF DIRECTOR: PETER B. HENRY                          Management  For       For      
+1E.   ELECTION OF DIRECTOR: FRANZ B. HUMER                          Management  For       For
+1F.   ELECTION OF DIRECTOR: RENEE J. JAMES                          Management  For       For
+1G.   ELECTION OF DIRECTOR: EUGENE M. MCQUADE                       Management  For       For
+1H.   ELECTION OF DIRECTOR: MICHAEL E. O'NEILL                      Management  For       For
+1I.   ELECTION OF DIRECTOR: GARY M. REINER                          Management  For       For
+1J.   ELECTION OF DIRECTOR: ANTHONY M. SANTOMERO                    Management  For       For
+1K.   ELECTION OF DIRECTOR: DIANA L. TAYLOR                         Management  For       For
+1L.   ELECTION OF DIRECTOR: WILLIAM S. THOMPSON, JR.                Management  For       For
+1M.   ELECTION OF DIRECTOR: JAMES S. TURLEY                         Management  For       For
+1N.   ELECTION OF DIRECTOR: DEBORAH C. WRIGHT                       Management  For       For
+1o.   ELECTION OF DIRECTOR: ERNESTO ZEDILLO PONCE DE LEON           Management  For       For      
+2.    PROPOSAL TO RATIFY THE SELECTION OF KPMG LLP AS CITI'S        Management  For       For
+      INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM FOR 2017.
+3.    ADVISORY APPROVAL OF CITI'S 2016 EXECUTIVE COMPENSATION.      Management  For       For
+4.    ADVISORY VOTE TO APPROVE THE FREQUENCY OF FUTURE ADVISORY     Management  1 Year    For
+      VOTES ON EXECUTIVE COMPENSATION.  	
+5.    STOCKHOLDER PROPOSAL REQUESTING A REPORT ON THE COMPANY'S     Shareholder Abstain   Against
+      POLICIES AND GOALS TO REDUCE THE GENDER PAY GAP.
+6.    STOCKHOLDER PROPOSAL REQUESTING THAT THE BOARD APPOINT A      Shareholder Against   For
+      STOCKHOLDER VALUE COMMITTEE TO ADDRESS WHETHER THE 
+      DIVESTITURE OF ALL NON-CORE BANKING BUSINESS SEGMENTS WOULD
+      ENHANCE SHAREHOLDER VALUE.
+7.    STOCKHOLDER PROPOSAL REQUESTING A REPORT ON LOBBYING AND      Shareholder Against   For
+      GRASSROOTS LOBBYING CONTRIBUTIONS.
+8.    STOCKHOLDER PROPOSAL REQUESTING AN AMENDMENT TO THE GENERAL   Shareholder Against   For
+      CLAWBACK POLICY TO PROVIDE THAT A SUBSTANTIAL PORTION OF 
+      ANNUAL TOTAL COMPENSATION OF EXECUTIVE OFFICERS SHALL BE 
+      DEFERRED AND FORFEITED, IN PART OR WHOLE, AT THE DISCRETION 
+      OF THE BOARD, TO HELP SATISFY ANY MONETARY PENALTY 
+      ASSOCIATED WITH A VIOLATION OF LAW.	
+9.    sTOCKHOLER PROPOSAL REQUESTING THAT THE BOARD ADOPT A POLICY  Shareholder Abstain	  Against
+      PROHIBITING THE VESTING OF EQUITY-BASED AWARDS FOR SENIOR 
+      EXECUTIVES DUE TO A VOLUNTARY RESIGNATION TO ENTER 
+      GOVERNMENT SERVICE.
+
+
+
+                           INVESTMENT COMPANY REPORT
+
+GROUPE EUROTUNNEL S.E, PARIS
+Security       F477AL114     Meeting Type  MIX
+Ticker Symbol                Meeting Date  27-Apr-2017
+ISIN           FR0010533075  Agenda        707813071 - Management
+
+                                                                                                              FOR/AGAINST
+ITEM  PROPOSAL                                                                                TYPE       VOTE MANAGEMENT
+----  --------                                                                                ---------- ---- -----------
+<C>   <S>                                                                                     <C>        <C>  <C>
+CMMT  THE FOLLOWING APPLIES TO SHAREHOLDERS THAT DO NOT HOLD                                  Non-Voting
+      SHARES DIRECTLY WITH A FRENCH CUSTODIAN: PROXY CARDS: VOTING
+      INSTRUCTIONS WILL BE FORWARDED TO THE GLOBAL CUSTODIANS ON
+      THE VOTE DEADLINE DATE. IN CAPACITY AS REGISTERED
+      INTERMEDIARY, THE GLOBAL CUSTODIANS WILL SIGN THE PROXY CARDS
+      AND FORWARD THEM TO THE LOCAL CUSTODIAN. IF YOU REQUEST MORE
+      INFORMATION, PLEASE CONTACT YOUR CLIENT REPRESENTATIVE.
+CMMT  IN CASE AMENDMENTS OR NEW RESOLUTIONS ARE PRESENTED DURING THE                          Non-Voting
+      MEETING, YOUR BOTE WILL DEFAULT TO 'ABSTAIN'. SHARES CAN 
+      ALTERNATIVELY BE PASSED TO THE CHAIRMAN OR A NAMED THIRD PARTY
+      TO VOTE ON ANY SUCH ITEM RAISED.  sHOULD YOU WISH TO PASS CONTROL
+      OF YOUR SHARES IN THIS WAY, PLEASE CONTACT YOUR CLIENT SERVICE
+      REPRESENTATIVE. THANK YOU.
+CMMT  07 MAR 2017: PLEASE NOTE THAT IMPORTANT ADDITIONAL MEETING                              Non-Voting
+      INFORMATION IS AVAILABLE BY CLICKING ON THE MATERIAL URL
+      LINK: https://balo.journal-officiel.gouv.fr/pdf/2017/0306/201703061700448.pdf.
+      PLEASE NOTE THAT THIS IS A REVISION DUE TO RECEIPT OF DIVIDEND AMOUNT.
+      IF YOU HAVE ALREADY SENT IN YOUR VOTES, PLEASE DO NOT VOTE AGAIN UNLESS YOU
+      DECIDE TO AMEND YOUR ORIGINAL INSTRUCTIONS. THANK YOU.
+O.1   Assessment and approval of the corporate financial statements for the financial         Management For      For
+      year ended on 31 December 2016
+O.2   Allocation of income for the financial year ended on 31 December 2016: EUR 0.26         Management For      For
+      per share 
+O.3   Assessment and approval of the consolidated financial statements for the financial      Management For      For
+      yea ended on 31 December 2016
+O.4   Special auditors' report on the financial statements pusuant to the conclusion of       Management For      For
+      a regulated agreement during the financial year
+O.5   Authorisation granted to the board of directors for 18 months to allow the company      Management For      For
+      to buy back and operate in relation to its own shares.
+O.6   Ratification of the appointment of Ms. Corinne Bach as director                         Management For      For
+O.7   Setting the annual amount of attenance fees					      Management For      For
+O.8   Advisory review of the compensation owed or paid to Mr. Jacques Gounon, chief           Management For      For
+      executive officer, for the financial year ended 31 December 2016
+O.9   Advisory review of the compensation owed or paid to Mr. Francois Gauthey, deputy        Management For      For
+      general manaager, for the financial year ended 31 December 2016
+O.10  Approval of the remuneration policy applicable to the chief executive officer           Management For      For
+O.11  Approval of the remuneration policy applicable to the deputy general manager            Management For      For
+E.12  Renewal of the delegation of authority granted to the board of directors for 26         Management For      For   
+      months to issue common shares of the company or securities granting access to 
+      common shares of the company or companies within the company's group, with retention
+      of the pre-emptive subscription right of shareholders
+E.13  Delegation of authority granted to the board of directors for 26 months to issue        Management For      For
+      common shares or securities granting access to the capital, within the limit of 10%
+      of the share capital, as remuneration for contriubtions in kind relating to equity
+      securities or securities granting access to capital 
+E.14  Overall limit on authorisations of issuance with or without cancellation of the         Management For      For
+      preemptive subscription right   
+E.15  Delegation of authority granted to the board of directors for 12 months to proceed      Management For      For
+      with a collctive free allocaton of shares to all non-management employees or the 
+      company and companies directly or indirectly related thereto pursuant to article
+      L.225-197-2 of the French commercial code
+E.16  Delegation of authority granted to the board of directors for 12 months to freely       Management For      For
+      allocate, under performance conditions, shares to the executive directors and 
+      employees of the company or companies directly or indirectly related thereto
+      pursuant to article L.225-197-2 of the French commercial code
+E.17  Authorisation granted to the board of directors for 18 months to reduce capital         Management For      For
+      by cancelling shares
+E.18  Delegation of authority granted to the board of directors for 26 months to proceed      Management For      For
+      with capital increases with cancellation of the preemptive subscription right of
+      shareholdersby issuing common shares of securities granting access to the company's
+      capital reserved for employees who are members of a company savings plan
+E.19  Powers to carry out all legal formalities.                                              Management For      For
+ 
+
+                           
+			   INVESTMENT COMPANY REPORT
+
+ENERGY XXI GULF COAST
+Security       29276K101       Meeting Type  Annual
+Ticker Symbol  EXXI            Meeting Date  10-May-2017
+ISIN           US29276K1016    Agenda        934602221 - Management
+
+                                                                                     FOR/AGAINST
+ITEM  PROPOSAL                                                    TYPE        VOTE   MANAGEMENT
+----  --------                                                    ---------- ------- -----------
+<C>   <S>                                                         <C>        <C>     <C>
+1.    DIRECTOR                                                    Management
+        1   MICHAEL S. BAHORICH                                              For       For
+        2   DOUGLAS E. BROOKS                                                For       For
+        3   GEORGE KOLLITIDES                                                For       For
+        4   MICHAEL S. REDDIN                                                For       For
+        5   STANFORD SPRINGEL                                                For       For
+        6   JAMES W. SWENT III                                               For       For
+	7   CHARLES W. WAMPLER 						     For       For	
+2.    TO APPROVE, IN A NON-BINDING ADVISORY VOTE,THE COMPENSATION Management Against   Against
+      PROVIDED TO THE NAMED EXECUTIVE OFFICERS AS DESCRIBED IN 
+      THE PROXY STATEMENT
+3.    TO APPROVE, IN A NON-BINDING ADVISORY VOTE,THE FREQUENCY    Management Abstain   Against
+      OF FUTURE ADVISORY VOTES ON THE COMPENSATION OF OUR NAMED 
+      EXECUTIVE OFFICERS
+4.    TO APPROVE THE APPOINTMENT OF ERNST & YOUNG LLP AS OUR      Management For       For
+      INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM FOR THE 
+      YEAR 2017
+
+  			    INVESTMENT COMPANY REPORT
+
+SWIFT ENERGY COMPANY
+Security       87073T105       Meeting Type  Annual
+Ticker Symbol  SWFT            Meeting Date  16-May-2017
+ISIN           US87073T1051    Agenda        934572290 - Management
+
+                                                                                     FOR/AGAINST
+ITEM  PROPOSAL                                                    TYPE        VOTE   MANAGEMENT
+----  --------                                                    ---------- ------- -----------
+<C>   <S>                                                         <C>        <C>     <C>
+1.    DIRECTOR                                                    Management
+        1   MICHAEL DUGINSKI                                                 For       For
+        2   CHRISTOPH O. MAJESKE                                             For       For
+2.    TO APPROVE THE FIRST AMENDMENT TO THE 2016 EQUITY INCENTIVE Management Against   Against
+      PLAN TO INCREASE THE NUMBER OF SHARES OF COMMON STOCK 
+      AVAILABLE FOR ISSUANCE UNDER THE 2016 PLAN
+3.    TO APPROVE THE MATERIAL TERMS OF THE 2016 EQUITY INCENTIVE  Management Against   Against
+      PLAN FOR PURPOSES OF COMPLYING WITH THE REQUIREMENTS OF  
+      SECTION 162(M) WITH RESPECT TO THE ADDTIONAL SHARES
+4.    TO RATIFY THE SELECTION OF BDO USA, LLP AS SWIFT ENERGY'S   Management For       For
+      INDEPENDENT AUDITOR FOR THE FISCAL YEAR ENDING 
+      DECEMBER 31, 2017
+5.    TO CONDUCT A NONBINDING ADVISORY VOTE TO APPROVE THE        Management Against   Against
+      COMPENSATION OF SWIFT ENERGY'S NAMED EXECUTIVE OFFICERS
+      AS PRESENTED IN THE PROXY STATEMENT
+6.    TO CONDUCT A NONBINDING ADVISORY VOTE ON THE FREQUENCY OF   Management Abstain   Against
+      FUTURE ADVISORY VOTES ON THE EXECUTIVE COMPENSATION 
+      
+
+
+
+                           INVESTMENT COMPANY REPORT
+
+NL INDUSTRIES, INC.
+Security       629156407       Meeting Type  Annual
+Ticker Symbol  NL              Meeting Date  18-May-2017
+ISIN           US6291564077    Agenda        9344557135 - Management
+
+                                                                                     FOR/AGAINST
+ITEM  PROPOSAL                                                    TYPE        VOTE   MANAGEMENT
+----  --------                                                    ---------- ------- -----------
+<C>   <S>                                                         <C>        <C>     <C>
+1.    DIRECTOR                                                    Management
+        1   KEITH R. COOGAN                                                  For       For
+        2   LORETTA J. FEEHAN                                                For       For
+        3   ROBERT D. GRAHAM                                                 For       For
+        4   JOHN E. HARPER                                                   For       For
+        5   CECIL H. MOORE, JR.                                              For       For
+        6   THOMAS P. STAFFORD                                               For       For
+2.    SAY-ON-PAY, NONBINDING ADVISORY VOTE APPROVING EXECUTIVE    Management Against   Against
+      COMPENSATION
+3.    SAY-WHEN-ON PAY, NONBINDING ADVISORY VOTE ON THE PREFERRED  Management Abstain   Againt
+      FREQUENCY OF EXECUTIVE COMPENSATION VOTES
+	  
+
+
+</table>
+
+Pursuant to the requirements of the Investment Company Act of 1940, the 
+   registrant has duly caused this report
+   to be signed on its behalf by the undersigned, thereunto duly authorized.
+   (Registrant) Northeast Investors Trust
+   /s/ Bruce Monrad
+   By (Signature and Title)* Bruce Monrad, Chairman 
+   (Principal Executive Officer)
+   Date August 25, 2017
+   * Print the name and title of each signing officer under his or her signature
+   By the Commission
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
